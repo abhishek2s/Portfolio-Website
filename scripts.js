@@ -9,7 +9,7 @@
 
 //             window.scrollTo({
 //                 top: targetElement.offsetTop - document.querySelector('.navbar').offsetHeight,
-//                 behavior: 'smooth'
+//                 behavior: 'smooth' 
 //             });
 //         });
 //     });
@@ -25,9 +25,4 @@ const navLinks = document.querySelector(".nav-links");
 hamburger.addEventListener("click", () => {
     navbar.classList.toggle("active");
 });
-
-
-
-
-// chances that I am working on it 
 
