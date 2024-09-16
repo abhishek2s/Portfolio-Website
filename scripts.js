@@ -14,3 +14,15 @@
 //         });
 //     });
 // });
+
+
+
+// JavaScript to toggle the navbar on mobile view
+const hamburger = document.querySelector(".hamburger");
+const navbar = document.querySelector(".navbar");
+const navLinks = document.querySelector(".nav-links");
+
+hamburger.addEventListener("click", () => {
+    navbar.classList.toggle("active");
+});
+
