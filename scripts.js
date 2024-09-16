@@ -9,7 +9,7 @@
 
 //             window.scrollTo({
 //                 top: targetElement.offsetTop - document.querySelector('.navbar').offsetHeight,
-//                 behavior: 'smooth'
+//                 behavior: 'smooth' 
 //             });
 //         });
 //     });
