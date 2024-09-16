@@ -26,3 +26,8 @@ hamburger.addEventListener("click", () => {
     navbar.classList.toggle("active");
 });
 
+
+
+
+// chances that I am working on it 
+
